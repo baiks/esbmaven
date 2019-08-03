@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Dependencies: com.external.xstream, com.external.jedis, com.external.jsonsimple, com.external.json ,com.external.commonCodec
